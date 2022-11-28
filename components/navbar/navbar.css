@@ -1,0 +1,10 @@
+.cart-img{
+    width: 15%;
+    height: 100%;
+    float: right;
+}
+.unique{
+    background-color: rgb(255, 117, 99);
+    width: 20%; 
+    margin-left: 50%;
+}

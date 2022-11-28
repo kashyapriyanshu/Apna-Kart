@@ -1,0 +1,7 @@
+.product_container{
+    width: 30%;
+    float: left;
+    margin:20px 10px;
+    box-shadow: 10px 10px 10px 10px rgb(200, 87, 241);
+    padding: 15px;
+}
